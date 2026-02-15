@@ -1,4 +1,12 @@
 # weight-bmi-app
-![Weight jpeg](https://github.com/user-attachments/assets/6c00d0a1-6be1-45b8-86dd-e9035006484d)
-![WhatsApp Image 2 49 AM](https://github.com/user-attachments/assets/2bf6e4a5-cc1a-414b-a134-d9b18f0363d5)
-![WhatsApp Image 2026-02-16 at 12 28 49 AM](https://github.com/user-attachments/assets/f59dc53f-870b-424c-9c08-951e16d45d3b)
+Weight & BMI Predictor is a Machine Learning web application that predicts a person’s weight based on their height.
+After prediction, it automatically calculates the BMI and classifies the health category (Underweight, Normal, Overweight, or Obese).
+
+The app also stores prediction history, allows users to delete records, and visualizes the relationship between height and predicted weight.
+
+Technologies used: Python, Scikit-learn, Pandas, and Streamlit.
+
+![write](https://github.com/user-attachments/assets/28790d00-d8c8-4184-9e17-47af4542bc8a)
+
+![intro3](https://github.com/user-attachments/assets/e06082ae-42c6-4047-a56f-0625c774ac86)
+![Weight jpeg](https://github.com/user-attachments/assets/2c57ee46-37a7-42a5-8c7c-b5e5acff5233)
